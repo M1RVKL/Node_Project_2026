@@ -128,7 +128,7 @@
 
 - **Робоча гілка:** `fix/ai-check-documentation`
 - **Цільова гілка:** `main`
-- **Pull Request:** додати посилання після створення PR.
+- **Pull Request:** https://github.com/M1RVKL/Node_Project_2026/pull/1
 
 Перед злиттям необхідно перевірити зміни та відповідність критеріям Definition of Done.
 
