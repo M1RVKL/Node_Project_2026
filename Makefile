@@ -1,4 +1,5 @@
-.PHONY: install up down dev db-migrate lint format test build
+
+.PHONY: install up down db-migrate lint format
 
 install:
 	npm install
@@ -17,12 +18,3 @@ lint:
 
 format:
 	npx prettier --write "src/**/*.ts"
-
-test:
-	npm run test
-
-dev:
-	npm run dev
-
-build:
-	npm run build
